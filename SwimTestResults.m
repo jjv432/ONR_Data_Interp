@@ -68,7 +68,7 @@ names_n_data = [
     %Sept 12 %Somethings wrong here!!
     % "experiment_09122024_1/obstacle_test_1", 1, l;
     % "experiment_09122024_1/obstacle_test_2", 1, l;
-    "experiment_09122024_1/obstacle_test_3", 1, l;
+    "../../SELQIE-Experiments/rosbags/experiment_09122024_1/obstacle_test_3", 1, l;
 
     %Done
     %"experiment_09122024_1/obstacle_test_4", 1, l; %6
