@@ -4,7 +4,7 @@
 
 clc
 clearvars -except AllSwimData AllNumTrials AllIndices AllPower
-close all
+
 %%
 k = 1;
 AllCOT(k,:) = ["Experiment Name", "CoT", "average_power", "max_power_peak", "Apparent Weight"];
